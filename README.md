@@ -9,11 +9,12 @@ In my free time I enjoy working on personal projects to both sharpen my skills a
 Rutgers Business School — New Brunswick, New Jersey 
 
 Bachelor of Science - BS, Business Analytics and Information Technology,
+
 August 2019 - May 2023
 
 ## Certificates
 - [AWS Academy Cloud Foundations](https://www.credly.com/badges/6681765d-0206-4748-9bbe-03f7962f41e5) (May 2022) (Amazon Web Services)
-- [IBM Python for Data Science](https://www.coursera.org/account/accomplishments/verify/PW03Q0A191LY) (July 2025) (IBM -- Coursera)
+- [IBM Python for Data Science](https://www.coursera.org/account/accomplishments/verify/PW03Q0A191LY) (July 2025) (IBM — Coursera)
 
 ## Contacts
 - LinkedIn: [Chidiebere M. Okere](https://www.linkedin.com/in/chidiebere-okere/)
