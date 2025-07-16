@@ -6,7 +6,7 @@ In my free time I enjoy working on personal projects to both sharpen my skills a
 
 
 ## Education
-Rutgers Business School -- New Brunswick, New Jersey: 
+Rutgers Business School — New Brunswick, New Jersey 
 Bachelor of Science - BS, Business Analytics and Information Technology,
 August 2019 - May 2023
 
