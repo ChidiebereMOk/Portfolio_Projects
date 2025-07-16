@@ -15,5 +15,5 @@ August 2019 - May 2023
 - [IBM Python for Data Science](https://www.coursera.org/account/accomplishments/verify/PW03Q0A191LY) (July 2025) (IBM -- Coursera)
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/chidiebere-okere/)
+- LinkedIn: [Chidiebere M. Okere](https://www.linkedin.com/in/chidiebere-okere/)
 - Email: chidieberemok@gmail.com
