@@ -6,21 +6,34 @@ In my free time I enjoy working on personal projects to both sharpen my skills a
 
 ## Table of Contents
 - [About](https://github.com/ChidiebereMOk/Portfolio-Overview/blob/main/README.md#about)
-- [Portfolio](https://github.com/ChidiebereMOk?tab=repositories/blob/main/README.md#portfolio-projects)
-  - Python
-   
-  - SQL
-   
-  - R
-  
-
-
+- [Portfolio Overview](https://github.com/ChidiebereMOk/Portfolio-Overview/blob/main/README.md#portfolio-overview)
 - [Education](https://github.com/ChidiebereMOk/Portfolio-Overview/blob/main/README.md#education)  
 - [Certificates](https://github.com/ChidiebereMOk/Portfolio-Overview/blob/main/README.md#certificates)
 - [Contact](https://github.com/ChidiebereMOk/Portfolio-Overview/blob/main/README.md#contacts)
 
 ## Portfolio Overview
 In this section I will provide an brief breakdown of the projects I have completed and the various tools used to complete each project, including links to their repositories.
+## [Cardiovascular Disease (CVD) Analysis](https://github.com/ChidiebereMOk/CVD-Analysis)
+
+**Task Overview:**  
+Analyze a medical dataset of patient records to explore health risk indicators associated with cardiovascular disease (CVD), focusing on lifestyle and biometric factors.
+
+**Actions Taken:**  
+- Cleaned and transformed raw data:
+  - Converted age to years, height to inches, and weight to pounds
+  - Translated encoded values (e.g., gender, cholesterol, glucose levels) into readable categories
+- Used SQL to extract insights on:
+  - Patient demographics and BMI
+  - Cholesterol and glucose correlations with CVD
+  - Behavioral risk factors (smoking, alcohol, activity) by CVD status
+
+**Results:**  
+  - Patients were evenly split by gender with an average age in the mid-50s
+  - Identified the proportion of patients with vs. without cardiovascular disease suggesting a targeted sample of patients
+  - Patients with above or well-above normal cholesterol/glucose levels had higher CVD incidence
+  - Inactive patients and those who smoke or drink showed higher rates of CVD
+  - A notable subset of healthy-behavior individuals still developed CVD, suggesting other contributing factors
+
 ## [Analysis of Real Estate Sales](https://github.com/ChidiebereMOk/Tableau--SQL-Projects/blob/main/Seattle%20Real%20Estate%20Sales/Seattle%20King%20County%20Real%20Estate%20Sales%20Analysis.sql)
 
 **Task Overview:**  
