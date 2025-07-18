@@ -87,7 +87,7 @@ Clean and transform raw bee colony data and perform a comprehensive analysis of 
 ## Education
 Rutgers Business School — New Brunswick, New Jersey 
 
-Bachelor of Science - BS, Business Analytics and Information Technology,
+Bachelor of Science - BSc, Business Analytics and Information Technology,
 
 August 2019 - May 2023
 
