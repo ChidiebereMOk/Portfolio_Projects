@@ -79,11 +79,11 @@ Clean and transform raw bee colony data and perform a comprehensive analysis of 
 - Built a linear regression model to examine the trend in colony counts over time and used Prophet to forecast colony populations for five additional years.
 
 **Results:**
-- Discovered a net national increase in bee colonies from 2002 to 2017.
+- Discovered a net national decrease in bee colonies from 2002 to 2017.
 - Identified top states and counties that experienced the largest growth in bee populations.
 - Found colony distributions were non-normal and skewed, with significant regional variation.
 - Correlation analysis revealed strong positive trends in specific states.
-- Forecasting models projected a continued increase in colonies nationwide under current conditions.
+- Forecasting models projected an increase in colonies nationwide under current conditions.
 
 ## Education
 Rutgers Business School — New Brunswick, New Jersey 
