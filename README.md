@@ -4,6 +4,54 @@ Hi, my name is Chidiebere. I am a graduate of Rutgers Business School with a Bac
 
 In my free time I enjoy working on personal projects to both sharpen my skills and acquire new skills that can aid in furthering my career in data analytics. Currently I'm working on projects that focus on the use of Python and PowerBI.
 
+## Table of Contents
+- [About](https://github.com/ChidiebereMOk/Portfolio-Overview/blob/main/README.md#about)
+- [Portfolio](https://github.com/ChidiebereMOk?tab=repositories/blob/main/README.md#portfolio-projects)
+  - Python
+   
+  - SQL
+   
+  - R
+  
+
+
+- [Education](https://github.com/ChidiebereMOk/Portfolio-Overview/blob/main/README.md#education)  
+- [Certificates](https://github.com/ChidiebereMOk/Portfolio-Overview/blob/main/README.md#certificates)
+- [Contact](https://github.com/ChidiebereMOk/Portfolio-Overview/blob/main/README.md#contacts)
+
+## Portfolio Overview
+In this section I will provide an brief breakdown of the projects I have completed and the various tools used to complete each project, including links to their repositories.
+## [Analysis of Real Estate Sales](https://github.com/ChidiebereMOk/Tableau--SQL-Projects/blob/main/Seattle%20Real%20Estate%20Sales/Seattle%20King%20County%20Real%20Estate%20Sales%20Analysis.sql)
+
+**Task Overview:**  
+Analyze house sale trends in King County, WA to identify price drivers and market patterns.
+
+**Actions Taken:**  
+- Performed SQL queries to analyze pricing trends, property features, and location effects
+- Evaluated construction year trends, grade distributions, and monthly sales volumes
+- Designed an interactive Tableau dashboard with filters, maps, and histograms
+
+**Results:**  
+- Identified highest average prices by zip code and property condition
+- Observed strong market activity in newer and high-grade homes
+- Created an interactive dashboard for temporal and geographic filtering
+
+**[Tableau Dashboard](https://public.tableau.com/app/profile/mitchell.okere/viz/SeattleRealEstateSales_17527461754040/RealEstateSales)**
+
+
+## [At Home Furniture Sales Analysis](https://github.com/ChidiebereMOk/Tableau--SQL-Projects/blob/main/At%20Home%20Furniture%20Sales/Furniture%20Sales%20Query%20Analysis.sql)
+
+**Task Overview:**  
+Evaluatioin of At Home Furniture's 2023 sales data to uncover product, customer, and regional performance trends
+
+**Actions Taken:**  
+- Used SQL to extract insights on sales volume, profit, customer behavior, and delivery delays
+- Identified top-performing products, regions, and sales months
+- Built a Tableau dashboard comparing 2023 vs. 2022 metrics across KPIs
+
+**Results:**  
+- Identified the top-selling regions which generated the highest revenue and the average order values of each
+- Which products had the most significant contribution to overall revenue
 
 ## Education
 Rutgers Business School — New Brunswick, New Jersey 
@@ -16,6 +64,6 @@ August 2019 - May 2023
 - [AWS Academy Cloud Foundations](https://www.credly.com/badges/6681765d-0206-4748-9bbe-03f7962f41e5) (May 2022) (Amazon Web Services)
 - [IBM Python for Data Science](https://www.coursera.org/account/accomplishments/verify/PW03Q0A191LY) (July 2025) (IBM — Coursera)
 
-## Contacts
+## Contact Information
 - LinkedIn: [Chidiebere M. Okere](https://www.linkedin.com/in/chidiebere-okere/)
 - Email: chidieberemok@gmail.com
