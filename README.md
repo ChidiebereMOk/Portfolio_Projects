@@ -73,8 +73,8 @@ Clean and transform raw bee colony data and perform a comprehensive analysis of 
 
 **Actions:**
 - Cleaned and structured multiple raw datasets using SQL, including standardizing data types, parsing geographical codes, handling missing values, and creating a relational schema for bee colonies, populations, and regions.
-- Used Python to join datasets, map codes to readable state and county names, and compute colony totals and changes over time.
-- Conducted data visualization with bar plots, histograms, and linear regression charts.
+- Used SQL to join datasets, map codes to readable state and county names, and compute colony totals and changes over time.
+- Created data visualizations using matplotlib in Python with bar plots, histograms, and linear regression charts.
 - Performed statistical analysis including descriptive statistics, Shapiro-Wilk normality testing, and Pearson correlation by region.
 - Built a linear regression model to examine the trend in colony counts over time and used Prophet to forecast colony populations for five additional years.
 
