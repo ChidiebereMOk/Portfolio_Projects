@@ -66,18 +66,19 @@ Evaluatioin of At Home Furniture's 2023 sales data to uncover product, customer,
 - Identified the top-selling regions which generated the highest revenue and the average order values of each
 - Which products had the most significant contribution to overall revenue
 
-## [Bee Populations in the United States](https://github.com/ChidiebereMOk/Declining-Bee-Populations-in-the-US/blob/main/README.md)
-**Task Overview**
+## [Bee Populations in the US](https://github.com/ChidiebereMOk/Declining-Bee-Populations-in-the-US/blob/main/README.md)
+
+**Task Overview:**  
 Clean and transform raw bee colony data and perform a comprehensive analysis of trends from 2002 to 2017. This involved identifying which regions experienced the most significant population changes, analyzing statistical patterns, and building a forecast model to project future colony counts.
 
-**Actions**
+**Actions:**
 - Cleaned and structured multiple raw datasets using SQL, including standardizing data types, parsing geographical codes, handling missing values, and creating a relational schema for bee colonies, populations, and regions.
 - Used Python to join datasets, map codes to readable state and county names, and compute colony totals and changes over time.
 - Conducted data visualization with bar plots, histograms, and linear regression charts.
 - Performed statistical analysis including descriptive statistics, Shapiro-Wilk normality testing, and Pearson correlation by region.
 - Built a linear regression model to examine the trend in colony counts over time and used Prophet to forecast colony populations for five additional years.
 
-**Results**
+**Results:**
 - Discovered a net national increase in bee colonies from 2002 to 2017.
 - Identified top states and counties that experienced the largest growth in bee populations.
 - Found colony distributions were non-normal and skewed, with significant regional variation.
