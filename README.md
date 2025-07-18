@@ -34,7 +34,7 @@ Analyze a medical dataset of patient records to explore health risk indicators a
   - Inactive patients and those who smoke or drink showed higher rates of CVD
   - A notable subset of healthy-behavior individuals still developed CVD, suggesting other contributing factors
 
-## [Analysis of Real Estate Sales](https://github.com/ChidiebereMOk/Tableau--SQL-Projects/blob/main/Seattle%20Real%20Estate%20Sales/Seattle%20King%20County%20Real%20Estate%20Sales%20Analysis.sql)
+## [Seattle Real Estate Sales](https://github.com/ChidiebereMOk/Tableau--SQL-Projects/blob/main/Seattle%20Real%20Estate%20Sales/Seattle%20King%20County%20Real%20Estate%20Sales%20Analysis.sql)
 
 **Task Overview:**  
 Analyze house sale trends in King County, WA to identify price drivers and market patterns.
