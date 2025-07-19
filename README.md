@@ -49,7 +49,6 @@ Analyze house sale trends in King County, WA to identify price drivers and marke
 - Observed strong market activity in newer and high-grade homes
 - Created an interactive dashboard for temporal and geographic filtering
 
-**[Tableau Dashboard](https://public.tableau.com/app/profile/mitchell.okere/viz/SeattleRealEstateSales_17527461754040/RealEstateSales)**
 
 
 ## [At Home Furniture Sales Analysis](https://github.com/ChidiebereMOk/Tableau--SQL-Projects/blob/main/At%20Home%20Furniture%20Sales/Furniture%20Sales%20Query%20Analysis.sql)
