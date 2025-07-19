@@ -9,7 +9,7 @@ In my free time I enjoy working on personal projects to both sharpen my skills a
 - [Portfolio Overview](https://github.com/ChidiebereMOk/Portfolio-Overview/blob/main/README.md#portfolio-overview)
 - [Education](https://github.com/ChidiebereMOk/Portfolio-Overview/blob/main/README.md#education)  
 - [Certificates](https://github.com/ChidiebereMOk/Portfolio-Overview/blob/main/README.md#certificates)
-- [Contact](https://github.com/ChidiebereMOk/Portfolio-Overview/blob/main/README.md#contacts)
+- [Contact](https://github.com/ChidiebereMOk/Portfolio-Overview/blob/main/README.md#contact-information)
 
 ## Portfolio Overview
 In this section I will provide an brief breakdown of the projects I have completed and the various tools used to complete each project, including links to their repositories.
