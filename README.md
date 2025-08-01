@@ -85,11 +85,17 @@ Clean and transform raw bee colony data and perform a comprehensive analysis of 
 - Forecasting models projected an increase in colonies nationwide under current conditions.
 
 ## Education
-Rutgers Business School — New Brunswick, New Jersey 
+**Rutgers Business School** — New Brunswick, New Jersey 
 
-Bachelor of Science - BSc, Business Analytics and Information Technology
+Bachelor's of Science - BSc, Business Analytics and Information Technology
 
 August 2019 - May 2023
+
+**William Paterson University** — Wayne, New Jersey
+
+Master's of Science - MSc, Applied Business Analytics
+
+August 2025 - May 2026
 
 ## Certificates
 - [AWS Academy Cloud Foundations](https://www.credly.com/badges/6681765d-0206-4748-9bbe-03f7962f41e5) (May 2022) (Amazon Web Services)
