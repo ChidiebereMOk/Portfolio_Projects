@@ -1,6 +1,6 @@
 # Chidiebere M. Okere - Introduction & Portfolio Overview
 ## About
-Hi, my name is Chidiebere. I am a graduate of Rutgers Business School with a Bachelor of Science Degree in Business Analytics and Information Technology and currently pursuing my Master's in Applied Business Analytics. Over the years of both through my studies and projects I have developed a strong foundation and proficieny in programming languages SQL and Python, visualization tools such as Excel, Tableau, and PowerBI.
+Hi, my name is Chidiebere. I am a graduate of Rutgers Business School with a Bachelor of Science Degree in Business Analytics and Information Technology and currently pursuing my Master's in Applied Business Analytics. Over the years of both through my studies and projects I have developed a strong foundation and proficieny in programming languages SQL and Python, visualization tools such as Excel and Tableau.
 
 In my free time I enjoy working on personal projects to both sharpen my skills and acquire new skills that can aid in furthering my career in data analytics.
 
